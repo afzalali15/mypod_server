@@ -1,0 +1,4 @@
+class: Article
+table: article
+fields:
+  title: String
